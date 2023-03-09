@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c48a9a8-22c8-495f-92ef-f398405749d8" name="Default Changelist" comment="" />
+    <list default="true" id="1c48a9a8-22c8-495f-92ef-f398405749d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2MdirDeDSQMo8A66EftwN5P8VUy" />
   <component name="ProjectViewState">
@@ -16,6 +21,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -55,6 +61,7 @@
       <workItem from="1678191163321" duration="1675000" />
       <workItem from="1678192862876" duration="1784000" />
       <workItem from="1678200398957" duration="38000" />
+      <workItem from="1678353587321" duration="39000" />
     </task>
     <servers />
   </component>
