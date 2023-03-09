@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c48a9a8-22c8-495f-92ef-f398405749d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +13,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2MdirDeDSQMo8A66EftwN5P8VUy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -61,7 +62,7 @@
       <workItem from="1678191163321" duration="1675000" />
       <workItem from="1678192862876" duration="1784000" />
       <workItem from="1678200398957" duration="38000" />
-      <workItem from="1678353587321" duration="39000" />
+      <workItem from="1678353587321" duration="974000" />
     </task>
     <servers />
   </component>
@@ -101,10 +102,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1678192850114" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1678200398380">
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1678363371561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1678200398380" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1678363371561" />
     <state x="342" y="141" key="new project wizard" timestamp="1678200433884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
