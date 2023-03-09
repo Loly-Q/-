@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int [] mass = new int[100];                                 //Объявление двумерного массива для количества заключённых
+        int [] mass = new int[100];                                 //Объявление одномерного массива для количества заключённых
         byte [] array = new byte[mass.length + 1];                  //Массив для не повторяющихся чисел
         boolean [] inmate = new boolean[array.length];              //Массив заключённых
         int alt = getRandom(1, mass.length);                        //Переменная для рандомногочисла
